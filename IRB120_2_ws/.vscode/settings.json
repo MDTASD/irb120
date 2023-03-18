@@ -1,0 +1,13 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/zyp/irb120-master/IRB120_2_ws/devel/lib/python3/dist-packages",
+        "/home/zyp/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/zyp/irb120-master/IRB120_2_ws/devel/lib/python3/dist-packages",
+        "/home/zyp/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "cmake.sourceDirectory": "${workspaceFolder}/src/abb_experimental/abb_irb52_support"
+}

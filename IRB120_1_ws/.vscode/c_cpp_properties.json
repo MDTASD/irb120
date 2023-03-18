@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/zyp/irb120-master/IRB120_2_ws/devel/include/**",
+        "/home/zyp/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/zyp/irb120-master/IRB120_2_ws/src/robotiq_85_gripper/robotiq_85_simulation/roboticsgroup_gazebo_plugins/include/**",
+        "/home/zyp/catkin_ws/src/Universal_Robots_ROS_Driver/ur_calibration/include/**",
+        "/home/zyp/catkin_ws/src/fmauch_universal_robot/ur_kinematics/include/**",
+        "/home/zyp/catkin_ws/src/Universal_Robots_ROS_Driver/ur_robot_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
